@@ -1,0 +1,3 @@
+# directories of stuff we don't need to commit
+.vs/
+node_modules/
