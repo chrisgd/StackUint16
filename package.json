@@ -1,0 +1,13 @@
+{
+  "name": "StackUint16",
+  "version": "0.1.0",
+  "description": "Simple stack using a Uint16 backed array.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/chrisgd/StackUint16",
+    "type": "git"
+  }
+  "author": "Chris GauthierDickey",
+  "license": "MIT",
+  "private": false
+}
